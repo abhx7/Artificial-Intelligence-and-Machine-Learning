@@ -177,6 +177,7 @@
 - [Flws of AI](https://youtu.be/_IOh0S_L3C4?si=LDpDGXKNaU6rw0Gq)
 - [Improving GPT evaluator](https://www.linkedin.com/posts/nikhilanand1303_my-gpt-evaluator-got-1000-better-with-this-activity-7289863766458990594-F1HQ/?utm_source=share&utm_medium=member_android)
 - [All Programming Courses](https://www.linkedin.com/posts/chiragsubramanian_leetcode-the-worlds-leading-online-programming-activity-7297479906358108160-DgMn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Codes from the book "Artificial Intelligence : A Modern Approach"](https://github.com/aimacode/aima-python)
 
 
 
