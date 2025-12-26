@@ -178,6 +178,6 @@
 - [Improving GPT evaluator](https://www.linkedin.com/posts/nikhilanand1303_my-gpt-evaluator-got-1000-better-with-this-activity-7289863766458990594-F1HQ/?utm_source=share&utm_medium=member_android)
 - [All Programming Courses](https://www.linkedin.com/posts/chiragsubramanian_leetcode-the-worlds-leading-online-programming-activity-7297479906358108160-DgMn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Codes from the book "Artificial Intelligence : A Modern Approach"](https://github.com/aimacode/aima-python)
-
+- [Apple_CLaRa_Unified_AI_Reasoning](https://drive.google.com/file/d/1kj6FYDEImCmWQ_UP9T1heiX3ALD3gnl1/view?mcp_token=eyJwaWQiOjMxNzI5NDMsInNpZCI6MTgxNDIzMjg0MCwiYXgiOiI3NTNiZTg5NWFlN2ZkOWQxOWIzNjcxN2U2ZGRhYzczZiIsInRzIjoxNzY2NDAzMjU0LCJleHAiOjE3Njg4MjI0NTR9._SzSx3JdHhBaEMfJbkSW6oqT2MdnJyX-0ojlsnygSsY&fbclid=PAVERTVgO2DA1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAac4Ek7k48NQzZLBl5dKqVvSBeP-wrXMmjQwAxMz205qy0yf62ZiYxFi2Zjc4w_aem_mDGMomaRZv7lNJdTwAyGSw)
 
 
