@@ -6,7 +6,8 @@
 - [Machine Learning from scratch? Start here!](https://www.linkedin.com/posts/eordax_ml-ai-learning-activity-7313972638811353088-drTF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [How to spend your 20s in AI era](https://www.youtube.com/watch?v=ShYKkPPhOoc)
 - [AI Engineering Mix](https://www.linkedin.com/posts/sairam-sundaresan_mit-stanford-deepmind-berkeley-umich-activity-7360267426686529536-SUJT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-   
+- [Master ML, DL and GenAI](https://www.linkedin.com/posts/sreedath-panat_want-to-master-ml-dl-and-genai-for-free-activity-7406927172424085505-Jv2X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 # **Machine Learning & Deep Learning**  
 
 ## 📌 Machine Learning (ML)
